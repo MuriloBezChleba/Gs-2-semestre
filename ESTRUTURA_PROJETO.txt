@@ -1,0 +1,149 @@
+📦 FuturoConecta - Estrutura do Projeto
+═══════════════════════════════════════════════════════════════
+
+📁 Raiz do Projeto
+│
+├── 📄 package.json              (Dependências e scripts NPM)
+├── 📄 vite.config.js            (Configuração do Vite)
+├── 📄 tailwind.config.cjs       (Configuração do Tailwind CSS)
+├── 📄 postcss.config.cjs        (Configuração do PostCSS)
+├── 📄 index.html                (HTML principal)
+├── 📄 .gitignore                (Arquivos ignorados pelo Git)
+├── 📄 README.md                 (Documentação principal)
+├── 📄 GUIA_RAPIDO.md            (Guia rápido de desenvolvimento)
+└── 📄 ESTRUTURA_PROJETO.txt     (Este arquivo)
+│
+└── 📁 src/
+    │
+    ├── 📄 main.jsx              (Entry point da aplicação)
+    ├── 📄 App.jsx               (Componente raiz)
+    ├── 📄 index.css             (Importação do Tailwind)
+    │
+    ├── 📁 components/           (Componentes React)
+    │   ├── 📄 Header.jsx
+    │   ├── 📄 DarkModeToggle.jsx
+    │   ├── 📄 SearchAndFilters.jsx
+    │   ├── 📄 ProfileCard.jsx
+    │   ├── 📄 ProfileModal.jsx
+    │   ├── 📄 TagList.jsx
+    │   └── 📄 Footer.jsx
+    │
+    └── 📁 data/                 (Dados estáticos)
+        └── 📄 profissionais.json (60 perfis profissionais)
+
+
+═══════════════════════════════════════════════════════════════
+📊 ESTATÍSTICAS DO PROJETO
+═══════════════════════════════════════════════════════════════
+
+✅ Total de Arquivos Criados:    17 arquivos
+✅ Componentes React:             7 componentes
+✅ Perfis no JSON:                60 perfis
+✅ Áreas Profissionais:           6 áreas (Dev, Design, Dados, Saúde, Educação, Marketing)
+✅ Linhas de Código (aprox):      ~1500 linhas
+
+
+═══════════════════════════════════════════════════════════════
+🎯 FUNCIONALIDADES IMPLEMENTADAS
+═══════════════════════════════════════════════════════════════
+
+[✓] Listagem de perfis em grid responsivo
+[✓] Cards com design moderno e hover effects
+[✓] Modal de detalhes com todas as informações
+[✓] Busca textual (nome, cargo, resumo, habilidades)
+[✓] Filtro por área de atuação
+[✓] Filtro por localização/cidade
+[✓] Filtro por tecnologia
+[✓] Filtros combinados (operador AND)
+[✓] Botão "Recomendar Profissional" funcional
+[✓] Botão "Enviar Mensagem" com formulário
+[✓] Dark Mode com toggle
+[✓] Persistência do tema no localStorage
+[✓] Design 100% Tailwind CSS (sem CSS puro)
+[✓] Layout responsivo (mobile, tablet, desktop)
+[✓] Contador de resultados
+[✓] Botão "Limpar Filtros"
+[✓] Mensagem quando não há resultados
+[✓] Formatação de datas (MMM/AAAA)
+[✓] Links para projetos (abrem em nova aba)
+[✓] Componentes reutilizáveis
+[✓] Otimização com useMemo
+
+
+═══════════════════════════════════════════════════════════════
+🚀 COMANDOS PARA INICIAR
+═══════════════════════════════════════════════════════════════
+
+1. Instalar dependências:
+   npm install
+
+2. Iniciar servidor de desenvolvimento:
+   npm run dev
+
+3. Acessar no navegador:
+   http://localhost:5173
+
+4. Build de produção:
+   npm run build
+
+
+═══════════════════════════════════════════════════════════════
+📱 BREAKPOINTS DE RESPONSIVIDADE
+═══════════════════════════════════════════════════════════════
+
+Mobile:       < 768px   →  1 coluna
+Tablet:       768-1024px →  2-3 colunas
+Desktop:      > 1024px   →  3-4 colunas
+
+
+═══════════════════════════════════════════════════════════════
+🎨 PALETA DE CORES
+═══════════════════════════════════════════════════════════════
+
+Modo Claro:
+  - Background:     #F9FAFB (gray-50)
+  - Cards:          #FFFFFF (white)
+  - Primary:        #0EA5E9 (primary-600)
+  - Text:           #111827 (gray-900)
+
+Modo Escuro:
+  - Background:     #111827 (gray-900)
+  - Cards:          #1F2937 (gray-800)
+  - Primary:        #38BDF8 (primary-400)
+  - Text:           #FFFFFF (white)
+
+
+═══════════════════════════════════════════════════════════════
+📦 DEPENDÊNCIAS PRINCIPAIS
+═══════════════════════════════════════════════════════════════
+
+React:          18.2.0
+Vite:           5.0.11
+Tailwind CSS:   3.4.1
+PostCSS:        8.4.33
+Autoprefixer:   10.4.17
+
+
+═══════════════════════════════════════════════════════════════
+✨ DESTAQUES TÉCNICOS
+═══════════════════════════════════════════════════════════════
+
+• Arquitetura componentizada e modular
+• Estado gerenciado com React Hooks
+• Performance otimizada com useMemo
+• Acessibilidade com aria-labels
+• Código limpo e bem comentado
+• Dados estruturados e coerentes
+• Sem uso de CSS puro (100% Tailwind)
+• Suporte completo a dark mode
+• Layout totalmente responsivo
+
+
+═══════════════════════════════════════════════════════════════
+
+Desenvolvido para: FIAP - Global Solution 2.1
+Data: Novembro 2024
+Tecnologias: React + Vite + Tailwind CSS
+
+═══════════════════════════════════════════════════════════════
+
