@@ -1,0 +1,4796 @@
+[
+  {
+    "id": 1,
+    "nome": "Ana Carolina Silva",
+    "foto": "",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "User Research",
+      "Adobe XD",
+      "After Effects",
+      "Photoshop",
+      "Prototyping",
+      "Illustrator"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Negociação",
+      "Resiliência",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataMinds Analytics",
+        "cargo": "Designer Gráfico",
+        "inicio": "2021-04",
+        "fim": "2024-12",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "UFPR",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "Insper",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo37",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Nielsen Norman Group UX",
+      "Design Thinking Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Economia circular",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Henrique Costa",
+    "foto": "",
+    "cargo": "Gestor Educacional",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "João Pessoa/PB",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Moodle",
+      "Camtasia",
+      "Canvas",
+      "Design Thinking",
+      "Metodologias Ativas",
+      "Google Classroom"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Pensamento crítico",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Gestor Educacional",
+        "inicio": "2020-01",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Medicina",
+        "instituicao": "UnB",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo15",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      },
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo64",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Biotecnologia",
+      "Big Data",
+      "Smart Cities"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Carla Mendes Santos",
+    "foto": "",
+    "cargo": "Terapeuta Ocupacional",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Belém/PA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Telemedicina",
+      "Anatomia",
+      "Gestão de Saúde"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Web Masters",
+        "cargo": "Terapeuta Ocupacional",
+        "inicio": "2022-03",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "UX Masters",
+        "cargo": "Terapeuta Ocupacional",
+        "inicio": "2019-10",
+        "fim": "2021-04",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UNICAMP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo42",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      },
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo97",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação COREN"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação tecnológica",
+      "Big Data",
+      "Robótica"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Daniel Oliveira Lima",
+    "foto": "",
+    "cargo": "Content Manager",
+    "resumo": "Profissional especializado em Marketing com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Content Marketing",
+      "Facebook Ads",
+      "SEM",
+      "Instagram Marketing",
+      "Email Marketing",
+      "CRM",
+      "Marketing Automation",
+      "Google Ads",
+      "Google Analytics"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Resolução de problemas",
+      "Organização",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Content Manager",
+        "inicio": "2022-08",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Letras",
+        "instituicao": "UFPR",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo61",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      },
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo36",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certificate",
+      "HubSpot Inbound Marketing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Smart Cities",
+      "Blockchain",
+      "Realidade Virtual"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Eduarda Ferreira Souza",
+    "foto": "",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Aracaju/SE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "REST API",
+      "Redis",
+      "RabbitMQ",
+      "CI/CD",
+      "Vue.js",
+      "Node.js",
+      "Azure",
+      "AWS"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Negociação",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2021-07",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UnB",
+        "ano": 2018
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "FGV",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo31",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      },
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo85",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Kubernetes Administrator",
+      "ITIL Foundation",
+      "Google Cloud Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Telemedicina",
+      "Smart Cities",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Felipe Rodrigues Alves",
+    "foto": "",
+    "cargo": "Terapeuta Ocupacional",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Anatomia",
+      "Protocolos Clínicos",
+      "Farmacologia"
+    ],
+    "softSkills": [
+      "Inteligência emocional",
+      "Empatia",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureTech",
+        "cargo": "Terapeuta Ocupacional",
+        "inicio": "2020-04",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Innovation Labs",
+        "cargo": "Pleno",
+        "inicio": "2018-10",
+        "fim": "2019-06",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Creative Studio",
+        "cargo": "Analista",
+        "inicio": "2015-07",
+        "fim": "2017-04",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFSC",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo65",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      },
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo86",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Realidade Virtual",
+      "Desenvolvimento sustentável"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Costa Martins",
+    "foto": "",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Java",
+      "REST API",
+      "RabbitMQ",
+      "Angular",
+      "Python",
+      "Git",
+      "PostgreSQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Pensamento crítico",
+      "Criatividade",
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2020-05",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Júnior",
+        "inicio": "2018-07",
+        "fim": "2019-04",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UnB",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo74",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Professional",
+      "PMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Internet das Coisas",
+      "Cloud Computing",
+      "Automação",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Henrique Santos Pereira",
+    "foto": "",
+    "cargo": "Engenheiro de Dados",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Santos/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GCP",
+      "REST API",
+      "Angular",
+      "Kubernetes",
+      "AWS",
+      "MongoDB"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação",
+      "Empatia",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Engenheiro de Dados",
+        "inicio": "2023-04",
+        "fim": "2024-12",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Analista",
+        "inicio": "2018-03",
+        "fim": "2022-04",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UNICAMP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo27",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Azure DevOps",
+      "Kubernetes Administrator"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Energias renováveis",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Almeida Rocha",
+    "foto": "",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "NumPy",
+      "Tableau",
+      "TensorFlow",
+      "Apache Spark",
+      "Scikit-learn"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Adaptabilidade",
+      "Resiliência",
+      "Resolução de problemas",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Cloud Solutions",
+        "cargo": "Cientista de Dados",
+        "inicio": "2020-09",
+        "fim": "2024-06",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Pleno",
+        "inicio": "2015-09",
+        "fim": "2019-10",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "UFRGS",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo12",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Smart Cities",
+      "Energias renováveis",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "João Pedro Barbosa",
+    "foto": "",
+    "cargo": "Enfermeiro Coordenador",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Farmacologia",
+      "Gestão de Saúde",
+      "Telemedicina",
+      "Protocolos Clínicos",
+      "Prontuário Eletrônico",
+      "Anatomia"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "EduTech Brasil",
+        "cargo": "Enfermeiro Coordenador",
+        "inicio": "2022-01",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "UX Masters",
+        "cargo": "Enfermeiro Coordenador",
+        "inicio": "2020-10",
+        "fim": "2021-05",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia",
+        "instituicao": "UNICAMP",
+        "ano": 2021
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UnB",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo17",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      },
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo69",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação COREN"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Telemedicina",
+      "Internet das Coisas"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Karina Dias Nascimento",
+    "foto": "",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Apache Spark",
+      "Python",
+      "Azure ML",
+      "Hadoop",
+      "Tableau",
+      "TensorFlow",
+      "SQL",
+      "Power BI",
+      "PyTorch"
+    ],
+    "softSkills": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Cientista de Dados",
+        "inicio": "2022-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFPR",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFRJ",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo43",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Google Data Analytics Certificate",
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Blockchain",
+      "Internet das Coisas",
+      "Desenvolvimento sustentável"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Lucas Fernandes Castro",
+    "foto": "",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "Angular",
+      "Redis",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade",
+      "Negociação",
+      "Liderança",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "DataMinds Analytics",
+        "cargo": "Júnior",
+        "inicio": "2018-06",
+        "fim": "2022-02",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "UFMG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo69",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "PMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Realidade Virtual",
+      "Economia circular"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Mariana Vieira Gomes",
+    "foto": "",
+    "cargo": "Desenvolvedor Back-End",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "João Pessoa/PB",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "CI/CD",
+      "TypeScript",
+      "JavaScript",
+      "REST API"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Inteligência emocional",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Web Masters",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2022-07",
+        "fim": "2024-05",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Desenvolvedor Back-End",
+        "inicio": "2020-01",
+        "fim": "2021-10",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Inovare Tecnologia",
+        "cargo": "Pleno",
+        "inicio": "2016-06",
+        "fim": "2019-09",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Letras",
+        "instituicao": "UFPE",
+        "ano": 2022
+      },
+      {
+        "curso": "MSc em Desenvolvimento",
+        "instituicao": "PUC-Rio",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo86",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Azure DevOps"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Nicolas Araújo Pinto",
+    "foto": "",
+    "cargo": "UI Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Adobe XD",
+      "Wireframing",
+      "Design System",
+      "Illustrator",
+      "After Effects",
+      "User Research",
+      "InDesign"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade",
+      "Gestão de tempo",
+      "Inteligência emocional",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Data Science Co",
+        "cargo": "UI Designer",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Analista",
+        "inicio": "2021-02",
+        "fim": "2022-10",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "AI Innovations",
+        "cargo": "UI Designer",
+        "inicio": "2018-07",
+        "fim": "2020-09",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Medicina",
+        "instituicao": "UFSC",
+        "ano": 2018
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo15",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo51",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design Certificate",
+      "Adobe Certified Expert"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Big Data",
+      "Realidade Virtual",
+      "Inovação social"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Olivia Cardoso Ribeiro",
+    "foto": "",
+    "cargo": "Gerente de Marketing Digital",
+    "resumo": "Profissional especializado em Marketing com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Santos/SP",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Google Analytics",
+      "Copywriting",
+      "Facebook Ads",
+      "Content Marketing",
+      "Email Marketing"
+    ],
+    "softSkills": [
+      "Inteligência emocional",
+      "Adaptabilidade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureTech",
+        "cargo": "Gerente de Marketing Digital",
+        "inicio": "2020-02",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFSC",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo49",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certificate",
+      "HubSpot Inbound Marketing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Energias renováveis",
+      "Big Data",
+      "Automação",
+      "Desenvolvimento sustentável"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Pedro Henrique Monteiro",
+    "foto": "",
+    "cargo": "Designer de Experiência",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Vitória/ES",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Wireframing",
+      "Photoshop",
+      "CSS",
+      "InDesign",
+      "Prototyping",
+      "Sketch"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Digital Ventures",
+        "cargo": "Designer de Experiência",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Digital Ventures",
+        "cargo": "Analista",
+        "inicio": "2019-06",
+        "fim": "2022-10",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "USP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo47",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Interaction Design Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação tecnológica",
+      "Cloud Computing",
+      "Internet das Coisas",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Rafaela Sousa Lima",
+    "foto": "",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Manaus/AM",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Tableau",
+      "R",
+      "Scikit-learn",
+      "NumPy",
+      "SQL",
+      "TensorFlow",
+      "Hadoop"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Inovare Tecnologia",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-02",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Startup Hub",
+        "cargo": "Júnior",
+        "inicio": "2016-01",
+        "fim": "2020-07",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "FGV",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo89",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Blockchain",
+      "Internet das Coisas",
+      "Smart Cities"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Rodrigo Teixeira Nunes",
+    "foto": "",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Sketch",
+      "Figma",
+      "HTML",
+      "Design System",
+      "Wireframing",
+      "Illustrator",
+      "Prototyping"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Negociação",
+      "Adaptabilidade",
+      "Comunicação",
+      "Inteligência emocional"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Innovation Labs",
+        "cargo": "Designer Gráfico",
+        "inicio": "2020-07",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "UX Masters",
+        "cargo": "Pleno",
+        "inicio": "2017-05",
+        "fim": "2019-09",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Matemática Aplicada",
+        "instituicao": "UFRJ",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Design",
+        "instituicao": "UFSC",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo11",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo34",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Adobe Certified Expert"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Energias renováveis",
+      "Robótica",
+      "Big Data"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Sofia Carvalho Freitas",
+    "foto": "",
+    "cargo": "Social Media Manager",
+    "resumo": "Profissional especializado em Marketing com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Email Marketing",
+      "Marketing Automation",
+      "CRM",
+      "SEM",
+      "Instagram Marketing",
+      "SEO",
+      "Content Marketing",
+      "Google Analytics"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Negociação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Startup Hub",
+        "cargo": "Social Media Manager",
+        "inicio": "2023-12",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "FutureTech",
+        "cargo": "Analista",
+        "inicio": "2020-08",
+        "fim": "2022-09",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFSC",
+        "ano": 2022
+      },
+      {
+        "curso": "MSc em Marketing",
+        "instituicao": "UFC",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo22",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      },
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo35",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certificate",
+      "HubSpot Inbound Marketing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Economia circular",
+      "Realidade Virtual",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Thiago Martins Correia",
+    "foto": "",
+    "cargo": "Desenvolvedor Mobile",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "RabbitMQ",
+      "Kubernetes",
+      "Redis",
+      "Microservices",
+      "Docker",
+      "GraphQL",
+      "React",
+      "Git",
+      "Java",
+      "GCP"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Adaptabilidade",
+      "Resolução de problemas",
+      "Gestão de tempo",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Startup Hub",
+        "cargo": "Desenvolvedor Mobile",
+        "inicio": "2023-11",
+        "fim": "2024-03",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFPE",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo78",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      },
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo54",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "PMP",
+      "Azure DevOps"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Energias renováveis"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Vitória Alves Ribeiro",
+    "foto": "",
+    "cargo": "Terapeuta Ocupacional",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Prontuário Eletrônico",
+      "Anatomia",
+      "Telemedicina",
+      "Sistemas Hospitalares",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Empatia",
+      "Inteligência emocional"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Startup Hub",
+        "cargo": "Terapeuta Ocupacional",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Sistemas de Informação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo75",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação COREN"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Cloud Computing",
+      "Educação tecnológica",
+      "Economia circular"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "William Costa Azevedo",
+    "foto": "",
+    "cargo": "Farmacêutico Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Natal/RN",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Protocolos Clínicos",
+      "Power BI",
+      "Prontuário Eletrônico",
+      "Telemedicina"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resolução de problemas",
+      "Liderança",
+      "Inteligência emocional"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Farmacêutico Clínico",
+        "inicio": "2021-12",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Pleno",
+        "inicio": "2019-07",
+        "fim": "2020-11",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UNICAMP",
+        "ano": 2016
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo52",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRM"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud Computing",
+      "Automação"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Amanda Silva Barros",
+    "foto": "",
+    "cargo": "Psicólogo Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Ribeirão Preto/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Gestão de Saúde",
+      "Excel",
+      "Telemedicina"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Adaptabilidade",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Psicólogo Clínico",
+        "inicio": "2023-02",
+        "fim": "2024-04",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Digital Ventures",
+        "cargo": "Pleno",
+        "inicio": "2021-01",
+        "fim": "2022-11",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2017
+      },
+      {
+        "curso": "Pós-graduação em Saúde",
+        "instituicao": "UFRJ",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo75",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRF"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação tecnológica",
+      "Cibersegurança",
+      "Cloud Computing",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Bernardo Lopes Campos",
+    "foto": "",
+    "cargo": "Psicólogo Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Gestão de Saúde",
+      "Protocolos Clínicos"
+    ],
+    "softSkills": [
+      "Inteligência emocional",
+      "Gestão de tempo",
+      "Proatividade",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Cloud Solutions",
+        "cargo": "Psicólogo Clínico",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Publicidade e Propaganda",
+        "instituicao": "UFMG",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo30",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      },
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo62",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRF"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Energias renováveis",
+      "Automação"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Camila Rodrigues Moura",
+    "foto": "",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Recife/PE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Apache Spark",
+      "TensorFlow",
+      "Python",
+      "Power BI",
+      "SQL",
+      "Keras",
+      "NumPy",
+      "R",
+      "Azure ML"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Pleno",
+        "inicio": "2017-12",
+        "fim": "2020-05",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Inovare Tecnologia",
+        "cargo": "Analista",
+        "inicio": "2015-05",
+        "fim": "2016-09",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFPE",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo7",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      },
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo82",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "TensorFlow Developer Certificate",
+      "Google Data Analytics Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Economia circular"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Diego Fernandes Pires",
+    "foto": "",
+    "cargo": "Professor Universitário",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "EdTech Tools",
+      "Articulate Storyline",
+      "Camtasia",
+      "Design Thinking",
+      "LMS",
+      "Metodologias Ativas"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Organização",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Innovation Labs",
+        "cargo": "Professor Universitário",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Professor Universitário",
+        "inicio": "2019-12",
+        "fim": "2021-05",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFPR",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo52",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Economia circular",
+      "Smart Cities",
+      "Realidade Virtual"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Elisa Oliveira Ramos",
+    "foto": "",
+    "cargo": "Médico Especialista",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Salvador/BA",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Prontuário Eletrônico",
+      "Sistemas Hospitalares",
+      "Telemedicina"
+    ],
+    "softSkills": [
+      "Organização",
+      "Inteligência emocional",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Médico Especialista",
+        "inicio": "2022-12",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Médico Especialista",
+        "inicio": "2020-01",
+        "fim": "2021-03",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Cloud Solutions",
+        "cargo": "Júnior",
+        "inicio": "2016-11",
+        "fim": "2019-12",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Bacharelado em Ciência da Computação",
+        "instituicao": "UFPE",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo64",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRF"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Smart Cities",
+      "Energias renováveis"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Fabio Costa Duarte",
+    "foto": "",
+    "cargo": "Designer de Experiência",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Belém/PA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Sketch",
+      "Design System",
+      "Photoshop",
+      "After Effects",
+      "Adobe XD",
+      "Illustrator",
+      "User Research"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Health Tech",
+        "cargo": "Designer de Experiência",
+        "inicio": "2020-04",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Medicina",
+        "instituicao": "UFRJ",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo2",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo4",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design Certificate",
+      "Adobe Certified Expert"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Biotecnologia",
+      "Economia circular",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Giovana Santos Mendes",
+    "foto": "",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Pandas",
+      "Hadoop",
+      "PyTorch",
+      "Apache Spark",
+      "Tableau"
+    ],
+    "softSkills": [
+      "Inteligência emocional",
+      "Adaptabilidade",
+      "Comunicação",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Web Masters",
+        "cargo": "Analista de Dados",
+        "inicio": "2022-10",
+        "fim": "2024-12",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Web Masters",
+        "cargo": "Júnior",
+        "inicio": "2019-02",
+        "fim": "2021-02",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "USP",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo24",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      },
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo12",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Blockchain",
+      "Smart Cities",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Hugo Almeida Rocha",
+    "foto": "",
+    "cargo": "Engenheiro de Software Sênior",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Vue.js",
+      "GraphQL",
+      "Angular",
+      "PostgreSQL",
+      "TypeScript",
+      "CI/CD",
+      "GCP",
+      "Azure",
+      "AWS"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Negociação",
+      "Organização",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Engenheiro de Software Sênior",
+        "inicio": "2020-12",
+        "fim": "2024-04",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "AI Innovations",
+        "cargo": "Engenheiro de Software Sênior",
+        "inicio": "2018-08",
+        "fim": "2019-03",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "Insper",
+        "ano": 2022
+      },
+      {
+        "curso": "Pós-graduação em Desenvolvimento",
+        "instituicao": "UNICAMP",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo60",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      },
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo55",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "ITIL Foundation",
+      "Azure DevOps"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação social",
+      "Robótica",
+      "IA ética"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Ingrid Pereira Martins",
+    "foto": "",
+    "cargo": "Product Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "User Research",
+      "Illustrator",
+      "Photoshop",
+      "Adobe XD",
+      "CSS",
+      "Prototyping",
+      "InDesign"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Criatividade",
+      "Inteligência emocional",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Health Tech",
+        "cargo": "Product Designer",
+        "inicio": "2021-05",
+        "fim": "2024-05",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "UX Masters",
+        "cargo": "Product Designer",
+        "inicio": "2018-01",
+        "fim": "2020-01",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia",
+        "instituicao": "FIAP",
+        "ano": 2021
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFRGS",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo92",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Nielsen Norman Group UX",
+      "Design Thinking Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação tecnológica",
+      "Inovação social",
+      "Smart Cities"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Julio Cesar Alves",
+    "foto": "",
+    "cargo": "Coordenador Pedagógico",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "João Pessoa/PB",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Google Classroom",
+      "Camtasia",
+      "LMS",
+      "Power Point",
+      "Articulate Storyline",
+      "Canvas"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Inteligência emocional",
+      "Negociação",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Coordenador Pedagógico",
+        "inicio": "2022-03",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "EduTech Brasil",
+        "cargo": "Pleno",
+        "inicio": "2020-05",
+        "fim": "2021-02",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "AI Innovations",
+        "cargo": "Júnior",
+        "inicio": "2016-03",
+        "fim": "2019-05",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFSCar",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFSCar",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo49",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      },
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo18",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Blockchain",
+      "Cibersegurança",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Laura Dias Costa",
+    "foto": "",
+    "cargo": "Motion Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Belém/PA",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Illustrator",
+      "Prototyping",
+      "Sketch",
+      "User Research",
+      "Photoshop"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Innovation Labs",
+        "cargo": "Motion Designer",
+        "inicio": "2023-05",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "UX Masters",
+        "cargo": "Motion Designer",
+        "inicio": "2019-10",
+        "fim": "2022-02",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UFSCar",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc em Design",
+        "instituicao": "Insper",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo41",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo11",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Biotecnologia",
+      "Blockchain",
+      "Robótica",
+      "Internet das Coisas"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Marcelo Ferreira Silva",
+    "foto": "",
+    "cargo": "Motion Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Adobe XD",
+      "HTML",
+      "Illustrator",
+      "CSS",
+      "InDesign",
+      "Prototyping"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Inteligência emocional",
+      "Trabalho em equipe",
+      "Proatividade",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Inovare Tecnologia",
+        "cargo": "Motion Designer",
+        "inicio": "2022-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "Insper",
+        "ano": 2017
+      },
+      {
+        "curso": "Pós-graduação em Design",
+        "instituicao": "UFRGS",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo88",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Design Thinking Certificate",
+      "Interaction Design Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Cibersegurança",
+      "Biotecnologia",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Natália Gomes Souza",
+    "foto": "",
+    "cargo": "Especialista em EAD",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Design Thinking",
+      "Google Classroom",
+      "Camtasia",
+      "Metodologias Ativas"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Negociação",
+      "Pensamento crítico",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DataMinds Analytics",
+        "cargo": "Especialista em EAD",
+        "inicio": "2023-10",
+        "fim": "2024-12",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Nutrição",
+        "instituicao": "UFSC",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo24",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      },
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo70",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação social",
+      "Economia circular"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Otávio Ribeiro Santos",
+    "foto": "",
+    "cargo": "Visual Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "João Pessoa/PB",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Illustrator",
+      "Sketch",
+      "InDesign",
+      "Wireframing",
+      "Photoshop",
+      "Design System"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Inteligência emocional",
+      "Resolução de problemas",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Mobile First",
+        "cargo": "Visual Designer",
+        "inicio": "2023-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Inovare Tecnologia",
+        "cargo": "Pleno",
+        "inicio": "2021-04",
+        "fim": "2022-05",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Nutrição",
+        "instituicao": "UFC",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo92",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo78",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design Certificate",
+      "Interaction Design Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Internet das Coisas"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Patricia Lima Barbosa",
+    "foto": "",
+    "cargo": "Desenvolvedor Full Stack",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Angular",
+      "Kubernetes",
+      "Vue.js",
+      "JavaScript",
+      "REST API",
+      "Git",
+      "RabbitMQ"
+    ],
+    "softSkills": [
+      "Inteligência emocional",
+      "Trabalho em equipe",
+      "Empatia",
+      "Organização",
+      "Negociação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Design Studio",
+        "cargo": "Desenvolvedor Full Stack",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Creative Studio",
+        "cargo": "Analista",
+        "inicio": "2016-10",
+        "fim": "2019-01",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "DataMinds Analytics",
+        "cargo": "Analista",
+        "inicio": "2013-04",
+        "fim": "2015-02",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Matemática Aplicada",
+        "instituicao": "Insper",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo15",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Azure DevOps",
+      "PMP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Energias renováveis",
+      "Big Data"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Rafael Santos Castro",
+    "foto": "",
+    "cargo": "Designer de Experiência",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Illustrator",
+      "CSS",
+      "After Effects",
+      "HTML",
+      "Figma",
+      "Sketch",
+      "Wireframing",
+      "Photoshop"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Empatia",
+      "Adaptabilidade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Designer de Experiência",
+        "inicio": "2020-11",
+        "fim": "2024-12",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "UFPR",
+        "ano": 2022
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "FGV",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo74",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo69",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Design Thinking Certificate",
+      "Google UX Design Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Economia circular",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Sabrina Oliveira Nunes",
+    "foto": "",
+    "cargo": "Psicólogo Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Farmacologia",
+      "Sistemas Hospitalares",
+      "Anatomia",
+      "Prontuário Eletrônico",
+      "Gestão de Saúde"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Criatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Startup Hub",
+        "cargo": "Psicólogo Clínico",
+        "inicio": "2023-07",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Psicólogo Clínico",
+        "inicio": "2021-01",
+        "fim": "2022-05",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Licenciatura em Matemática",
+        "instituicao": "Insper",
+        "ano": 2016
+      },
+      {
+        "curso": "Pós-graduação em Saúde",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo16",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      },
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo97",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRM"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Inovação social",
+      "Big Data",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Tiago Rodrigues Freitas",
+    "foto": "",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Vitória/ES",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "GCP",
+      "REST API",
+      "Vue.js",
+      "Node.js",
+      "Java",
+      "Redis",
+      "CI/CD"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Liderança",
+      "Trabalho em equipe",
+      "Empatia",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Mobile First",
+        "cargo": "DevOps Engineer",
+        "inicio": "2023-11",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "USP",
+        "ano": 2022
+      },
+      {
+        "curso": "MSc em Desenvolvimento",
+        "instituicao": "UFC",
+        "ano": 2026
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo47",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Google Cloud Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Realidade Virtual",
+      "Biotecnologia"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Vanessa Alves Monteiro",
+    "foto": "",
+    "cargo": "Farmacêutico Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Santos/SP",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Anatomia",
+      "Excel",
+      "Gestão de Saúde",
+      "Telemedicina"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Organização",
+      "Proatividade",
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureTech",
+        "cargo": "Farmacêutico Clínico",
+        "inicio": "2021-06",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Medicina",
+        "instituicao": "FIAP",
+        "ano": 2018
+      },
+      {
+        "curso": "MSc em Saúde",
+        "instituicao": "UFSCar",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo82",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      },
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo93",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação COREN"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Economia circular",
+      "Cibersegurança",
+      "Internet das Coisas",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Wagner Costa Pinto",
+    "foto": "",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "PostgreSQL",
+      "AWS",
+      "RabbitMQ",
+      "GCP",
+      "Docker",
+      "Python",
+      "Redis"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Empatia",
+      "Gestão de tempo"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2021-06",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Mobile First",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2019-06",
+        "fim": "2020-08",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Júnior",
+        "inicio": "2015-11",
+        "fim": "2018-06",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "UFPE",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc em Desenvolvimento",
+        "instituicao": "UFRGS",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo29",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "Certified Scrum Master",
+      "PMP",
+      "Google Cloud Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Energias renováveis",
+      "Realidade Virtual"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Yasmin Silva Ramos",
+    "foto": "",
+    "cargo": "Professor Universitário",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Santos/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "Metodologias Ativas",
+      "Power Point",
+      "Design Thinking",
+      "Moodle",
+      "LMS",
+      "Canvas"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Professor Universitário",
+        "inicio": "2021-02",
+        "fim": "2024-07",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Júnior",
+        "inicio": "2017-10",
+        "fim": "2020-04",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Gráfico",
+        "instituicao": "UFSC",
+        "ano": 2019
+      },
+      {
+        "curso": "MSc em Educação",
+        "instituicao": "UFRGS",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo50",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      },
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo21",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "IA ética",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "André Luiz Santos",
+    "foto": "",
+    "cargo": "Brand Manager",
+    "resumo": "Profissional especializado em Marketing com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Vitória/ES",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Google Analytics",
+      "SEM",
+      "SEO",
+      "Email Marketing",
+      "Google Ads",
+      "Facebook Ads",
+      "CRM",
+      "Content Marketing",
+      "Instagram Marketing"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Proatividade",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Cloud Solutions",
+        "cargo": "Brand Manager",
+        "inicio": "2023-06",
+        "fim": "2024-11",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UnB",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo54",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certificate",
+      "HubSpot Inbound Marketing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Realidade Virtual"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Beatriz Ferreira Lima",
+    "foto": "",
+    "cargo": "ML Engineer",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "R",
+      "TensorFlow",
+      "Scikit-learn",
+      "Power BI",
+      "MLflow",
+      "Apache Spark",
+      "PyTorch",
+      "Keras",
+      "Azure ML"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Criatividade",
+      "Gestão de tempo",
+      "Liderança",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Mobile First",
+        "cargo": "ML Engineer",
+        "inicio": "2023-04",
+        "fim": "2024-04",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Pleno",
+        "inicio": "2018-05",
+        "fim": "2022-12",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Design Studio",
+        "cargo": "Analista",
+        "inicio": "2015-08",
+        "fim": "2017-05",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo76",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      },
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo98",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate",
+      "AWS Certified Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Cibersegurança"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Carlos Eduardo Rocha",
+    "foto": "",
+    "cargo": "Terapeuta Ocupacional",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Manaus/AM",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Excel",
+      "Gestão de Saúde",
+      "Power BI",
+      "Anatomia",
+      "Sistemas Hospitalares",
+      "Prontuário Eletrônico"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Proatividade",
+      "Adaptabilidade",
+      "Inteligência emocional",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Marketing Pro",
+        "cargo": "Terapeuta Ocupacional",
+        "inicio": "2023-08",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "EduTech Brasil",
+        "cargo": "Analista",
+        "inicio": "2019-11",
+        "fim": "2022-06",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Nutrição",
+        "instituicao": "FIAP",
+        "ano": 2015
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo97",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação COREN"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Energias renováveis",
+      "Realidade Virtual",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Daniela Sousa Martins",
+    "foto": "",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "CI/CD",
+      "Microservices",
+      "Git",
+      "Kubernetes",
+      "Vue.js",
+      "GCP",
+      "Python",
+      "REST API",
+      "MySQL",
+      "Redis"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Empatia",
+      "Inteligência emocional"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UX Masters",
+        "cargo": "DevOps Engineer",
+        "inicio": "2022-06",
+        "fim": "2024-04",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Pleno",
+        "inicio": "2018-10",
+        "fim": "2021-08",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "UFSC",
+        "ano": 2017
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo45",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "ITIL Foundation",
+      "Google Cloud Professional",
+      "AWS Solutions Architect"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Internet das Coisas",
+      "Robótica"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Eduardo Alves Pereira",
+    "foto": "",
+    "cargo": "ML Engineer",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Belém/PA",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "NumPy",
+      "SQL",
+      "PyTorch",
+      "Azure ML",
+      "TensorFlow",
+      "Keras",
+      "Pandas",
+      "Apache Spark"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Digital Ventures",
+        "cargo": "ML Engineer",
+        "inicio": "2020-06",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Cloud Solutions",
+        "cargo": "ML Engineer",
+        "inicio": "2018-10",
+        "fim": "2019-08",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Estatística",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo27",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      },
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo63",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Data Analytics",
+      "Microsoft Certified Data Analyst"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Cibersegurança",
+      "Robótica",
+      "Automação",
+      "Internet das Coisas"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Fernanda Costa Dias",
+    "foto": "",
+    "cargo": "Especialista em EAD",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Santos/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "EdTech Tools",
+      "Power Point",
+      "Canvas",
+      "LMS",
+      "Design Thinking",
+      "Google Classroom"
+    ],
+    "softSkills": [
+      "Resolução de problemas",
+      "Proatividade",
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Especialista em EAD",
+        "inicio": "2020-12",
+        "fim": "2024-11",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Mobile First",
+        "cargo": "Júnior",
+        "inicio": "2017-06",
+        "fim": "2019-02",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Mobile First",
+        "cargo": "Júnior",
+        "inicio": "2015-12",
+        "fim": "2016-04",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Matemática Aplicada",
+        "instituicao": "UFRJ",
+        "ano": 2016
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFMG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo65",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Alemão",
+        "nivel": "Básico"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação social",
+      "Blockchain",
+      "Telemedicina"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Guilherme Santos Gomes",
+    "foto": "",
+    "cargo": "UI Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Natal/RN",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Sketch",
+      "Adobe XD",
+      "Design System",
+      "Figma",
+      "Illustrator",
+      "Prototyping",
+      "Photoshop"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe",
+      "Proatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Web Masters",
+        "cargo": "UI Designer",
+        "inicio": "2020-10",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Analista",
+        "inicio": "2015-04",
+        "fim": "2019-03",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Administração",
+        "instituicao": "UFSC",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo65",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo89",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Adobe Certified Expert",
+      "Interaction Design Foundation"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento sustentável",
+      "Smart Cities",
+      "Educação tecnológica"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Helena Rodrigues Silva",
+    "foto": "",
+    "cargo": "Farmacêutico Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Aracaju/SE",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Protocolos Clínicos",
+      "Excel",
+      "Telemedicina",
+      "Farmacologia",
+      "Sistemas Hospitalares",
+      "Prontuário Eletrônico"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Negociação",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Cloud Solutions",
+        "cargo": "Farmacêutico Clínico",
+        "inicio": "2020-08",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Psicologia",
+        "instituicao": "UFSC",
+        "ano": 2015
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFSC",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo83",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRP"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Internet das Coisas"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Igor Pereira Alves",
+    "foto": "",
+    "cargo": "Social Media Manager",
+    "resumo": "Profissional especializado em Marketing com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "João Pessoa/PB",
+    "area": "Marketing",
+    "habilidadesTecnicas": [
+      "Marketing Automation",
+      "SEM",
+      "CRM",
+      "SEO",
+      "Copywriting",
+      "Google Ads",
+      "Instagram Marketing",
+      "Email Marketing"
+    ],
+    "softSkills": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Liderança",
+      "Inteligência emocional"
+    ],
+    "experiencias": [
+      {
+        "empresa": "UX Masters",
+        "cargo": "Social Media Manager",
+        "inicio": "2021-02",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Social Media Manager",
+        "inicio": "2018-11",
+        "fim": "2020-08",
+        "descricao": "Atuação em projetos de marketing, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFPR",
+        "ano": 2021
+      },
+      {
+        "curso": "MSc em Marketing",
+        "instituicao": "UFPE",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Portal Corporativo",
+        "link": "https://github.com/exemplo68",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      },
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo11",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de marketing."
+      }
+    ],
+    "certificacoes": [
+      "Google Analytics Certificate",
+      "HubSpot Inbound Marketing"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Inovação social",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Juliana Oliveira Castro",
+    "foto": "",
+    "cargo": "ML Engineer",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Power BI",
+      "SQL",
+      "Scikit-learn",
+      "Apache Spark",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Proatividade",
+      "Resolução de problemas",
+      "Organização"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Web Masters",
+        "cargo": "ML Engineer",
+        "inicio": "2023-09",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Mobile First",
+        "cargo": "Analista",
+        "inicio": "2019-12",
+        "fim": "2022-05",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Licenciatura em Matemática",
+        "instituicao": "UnB",
+        "ano": 2017
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo60",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Cloud Computing",
+      "Smart Cities",
+      "Robótica"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Kevin Costa Santos",
+    "foto": "",
+    "cargo": "Designer Gráfico",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Fortaleza/CE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Photoshop",
+      "After Effects",
+      "Adobe XD",
+      "HTML",
+      "Figma",
+      "Illustrator",
+      "User Research"
+    ],
+    "softSkills": [
+      "Organização",
+      "Liderança",
+      "Comunicação",
+      "Negociação",
+      "Pensamento crítico"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Designer Gráfico",
+        "inicio": "2021-03",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "DataMinds Analytics",
+        "cargo": "Pleno",
+        "inicio": "2017-02",
+        "fim": "2020-01",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Pedagogia",
+        "instituicao": "Insper",
+        "ano": 2019
+      },
+      {
+        "curso": "Pós-graduação em Design",
+        "instituicao": "FGV",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Gestão",
+        "link": "https://github.com/exemplo48",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Sistema de CRM",
+        "link": "https://github.com/exemplo7",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Google UX Design Certificate",
+      "Design Thinking Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Internet das Coisas",
+      "Robótica",
+      "Educação tecnológica",
+      "Realidade Virtual"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Larissa Ferreira Souza",
+    "foto": "",
+    "cargo": "Arquiteto de Software",
+    "resumo": "Profissional especializado em Desenvolvimento com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Natal/RN",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "MongoDB",
+      "React",
+      "PostgreSQL",
+      "Java",
+      "Microservices"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Liderança",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "FutureTech",
+        "cargo": "Arquiteto de Software",
+        "inicio": "2020-08",
+        "fim": "2024-09",
+        "descricao": "Atuação em projetos de desenvolvimento, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2020
+      },
+      {
+        "curso": "Pós-graduação em Desenvolvimento",
+        "instituicao": "UnB",
+        "ano": 2024
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo99",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de desenvolvimento."
+      }
+    ],
+    "certificacoes": [
+      "AWS Solutions Architect",
+      "Google Cloud Professional"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA ética",
+      "Energias renováveis",
+      "Internet das Coisas"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Matheus Silva Lima",
+    "foto": "",
+    "cargo": "Engenheiro de Machine Learning",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Goiânia/GO",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "Apache Spark",
+      "MLflow",
+      "R",
+      "Azure ML",
+      "Python",
+      "Power BI",
+      "PyTorch",
+      "NumPy",
+      "Tableau"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Proatividade",
+      "Liderança",
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Digital Ventures",
+        "cargo": "Engenheiro de Machine Learning",
+        "inicio": "2022-03",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Engenheiro de Machine Learning",
+        "inicio": "2020-04",
+        "fim": "2021-03",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Nutrição",
+        "instituicao": "UFSCar",
+        "ano": 2019
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Sistema de Recomendação",
+        "link": "https://github.com/exemplo80",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação tecnológica",
+      "Smart Cities",
+      "IA ética",
+      "Desenvolvimento sustentável"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Nina Alves Rocha",
+    "foto": "",
+    "cargo": "Psicólogo Clínico",
+    "resumo": "Profissional especializado em Saúde com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Saúde",
+    "habilidadesTecnicas": [
+      "Farmacologia",
+      "Gestão de Saúde",
+      "Prontuário Eletrônico",
+      "Telemedicina"
+    ],
+    "softSkills": [
+      "Proatividade",
+      "Trabalho em equipe",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Web Masters",
+        "cargo": "Psicólogo Clínico",
+        "inicio": "2022-11",
+        "fim": "2024-08",
+        "descricao": "Atuação em projetos de saúde, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Medicina",
+        "instituicao": "FGV",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma de E-commerce",
+        "link": "https://github.com/exemplo60",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de saúde."
+      }
+    ],
+    "certificacoes": [
+      "Registro Profissional Ativo",
+      "Certificação CRM"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Energias renováveis",
+      "Big Data"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Oscar Rodrigues Costa",
+    "foto": "",
+    "cargo": "Especialista em EAD",
+    "resumo": "Profissional especializado em Educação com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Santos/SP",
+    "area": "Educação",
+    "habilidadesTecnicas": [
+      "LMS",
+      "Power Point",
+      "Google Classroom",
+      "Camtasia",
+      "Design Thinking",
+      "Moodle"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CodeCraft",
+        "cargo": "Especialista em EAD",
+        "inicio": "2022-08",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Smart Systems",
+        "cargo": "Analista",
+        "inicio": "2017-02",
+        "fim": "2021-06",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Tech Solutions Brasil",
+        "cargo": "Júnior",
+        "inicio": "2012-08",
+        "fim": "2016-09",
+        "descricao": "Atuação em projetos de educação, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Marketing",
+        "instituicao": "UFC",
+        "ano": 2018
+      },
+      {
+        "curso": "MBA em Gestão de Projetos",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Dashboard Analytics",
+        "link": "https://github.com/exemplo96",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      },
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo36",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de educação."
+      }
+    ],
+    "certificacoes": [
+      "Licenciatura Plena",
+      "Especialização em Educação"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      }
+    ],
+    "areaInteresses": [
+      "Desenvolvimento sustentável",
+      "Telemedicina",
+      "Economia circular"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Paula Dias Martins",
+    "foto": "",
+    "cargo": "Analista de Business Intelligence",
+    "resumo": "Profissional especializado em Dados com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Brasília/DF",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Hadoop",
+      "NumPy",
+      "Python",
+      "TensorFlow",
+      "MLflow",
+      "SQL",
+      "Scikit-learn",
+      "Pandas",
+      "PyTorch",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Negociação",
+      "Adaptabilidade",
+      "Proatividade",
+      "Resolução de problemas"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Creative Studio",
+        "cargo": "Analista de Business Intelligence",
+        "inicio": "2020-05",
+        "fim": "2024-01",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Júnior",
+        "inicio": "2018-06",
+        "fim": "2019-03",
+        "descricao": "Atuação em projetos de dados, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UnB",
+        "ano": 2015
+      },
+      {
+        "curso": "MSc em Dados",
+        "instituicao": "UnB",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "App de Saúde",
+        "link": "https://github.com/exemplo63",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de dados."
+      }
+    ],
+    "certificacoes": [
+      "TensorFlow Developer Certificate"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Robótica",
+      "Energias renováveis",
+      "Blockchain"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Ricardo Santos Silva",
+    "foto": "",
+    "cargo": "Motion Designer",
+    "resumo": "Profissional especializado em Design com experiência comprovada em projetos de alto impacto. Busco constantemente inovação e excelência na entrega de resultados.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Adobe XD",
+      "HTML",
+      "InDesign",
+      "Illustrator",
+      "Prototyping",
+      "CSS",
+      "After Effects",
+      "User Research"
+    ],
+    "softSkills": [
+      "Gestão de tempo",
+      "Proatividade",
+      "Resolução de problemas",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Innovation Labs",
+        "cargo": "Motion Designer",
+        "inicio": "2022-08",
+        "fim": "Atual",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "DataMinds Analytics",
+        "cargo": "Júnior",
+        "inicio": "2020-09",
+        "fim": "2021-01",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      },
+      {
+        "empresa": "Data Science Co",
+        "cargo": "Motion Designer",
+        "inicio": "2016-02",
+        "fim": "2019-10",
+        "descricao": "Atuação em projetos de design, colaboração em equipe multidisciplinar e entrega de resultados de alto impacto."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Enfermagem",
+        "instituicao": "UNICAMP",
+        "ano": 2021
+      },
+      {
+        "curso": "Pós-graduação em Design",
+        "instituicao": "UFRJ",
+        "ano": 2025
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Plataforma Educacional",
+        "link": "https://github.com/exemplo53",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      },
+      {
+        "titulo": "Aplicativo Mobile",
+        "link": "https://github.com/exemplo80",
+        "descricao": "Projeto desenvolvido para otimizar processos e melhorar a experiência do usuário na área de design."
+      }
+    ],
+    "certificacoes": [
+      "Adobe Certified Expert"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Português",
+        "nivel": "Nativo"
+      },
+      {
+        "idioma": "Inglês",
+        "nivel": "Fluente"
+      },
+      {
+        "idioma": "Mandarim",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Smart Cities",
+      "Economia circular",
+      "Desenvolvimento sustentável"
+    ]
+  }
+]
