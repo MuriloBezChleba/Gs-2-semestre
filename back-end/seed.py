@@ -21,10 +21,10 @@ def limpar_banco_dados():
     
     Estrutura: FUNÇÃO com DECISÃO
     """
-    print("🗑️  Limpando banco de dados...")
+    print("Limpando banco de dados...")
     Base.metadata.drop_all(bind=engine)
     Base.metadata.create_all(bind=engine)
-    print("✅ Banco de dados limpo e recriado!")
+    print("Banco de dados limpo e recriado!")
 
 
 def carregar_dados_json() -> list:
@@ -40,17 +40,17 @@ def carregar_dados_json() -> list:
     
     # DECISÃO: verificar se arquivo existe
     if not os.path.exists(caminho_json):
-        print(f"❌ Erro: Arquivo não encontrado em {caminho_json}")
+        print(f"[ERRO] Arquivo nao encontrado em {caminho_json}")
         return []
     
     # Ler e parsear JSON
     try:
         with open(caminho_json, 'r', encoding='utf-8') as arquivo:
             dados = json.load(arquivo)
-            print(f"📂 Carregados {len(dados)} perfis do arquivo JSON")
+            print(f"[OK] Carregados {len(dados)} perfis do arquivo JSON")
             return dados
     except Exception as e:
-        print(f"❌ Erro ao ler arquivo JSON: {e}")
+        print(f"[ERRO] Erro ao ler arquivo JSON: {e}")
         return []
 
 
@@ -105,7 +105,7 @@ def validar_perfil(perfil: dict) -> bool:
     for campo in campos_obrigatorios:
         # DECISÃO: verificar se campo existe e não está vazio
         if campo not in perfil or not perfil[campo]:
-            print(f"⚠️  Perfil inválido: campo '{campo}' ausente ou vazio")
+            print(f"[AVISO] Perfil invalido: campo '{campo}' ausente ou vazio")
             return False
     
     return True
@@ -150,7 +150,7 @@ def inserir_perfil(db: Session, perfil_json: dict) -> bool:
         return True
         
     except Exception as e:
-        print(f"❌ Erro ao inserir perfil: {e}")
+        print(f"[ERRO] Erro ao inserir perfil: {e}")
         return False
 
 
@@ -164,7 +164,7 @@ def popular_banco_dados():
     - DECISÃO (if/else, try/except)
     """
     print("\n" + "="*60)
-    print("🚀 INICIANDO POPULAÇÃO DO BANCO DE DADOS")
+    print("INICIANDO POPULACAO DO BANCO DE DADOS")
     print("="*60 + "\n")
     
     # Limpar banco existente
@@ -175,7 +175,7 @@ def popular_banco_dados():
     
     # DECISÃO: verificar se carregou dados
     if not perfis_json:
-        print("❌ Nenhum dado para inserir. Encerrando...")
+        print("[ERRO] Nenhum dado para inserir. Encerrando...")
         return
     
     # Criar sessão do banco
@@ -186,33 +186,33 @@ def popular_banco_dados():
         sucesso = 0
         erros = 0
         
-        print(f"📊 Processando {total_perfis} perfis...\n")
+        print(f"Processando {total_perfis} perfis...\n")
         
         # REPETIÇÃO: processar cada perfil
         for indice, perfil in enumerate(perfis_json, start=1):
             # DECISÃO: inserir perfil
             if inserir_perfil(db, perfil):
                 sucesso += 1
-                print(f"✅ [{indice}/{total_perfis}] {perfil['nome']} - {perfil['cargo']}")
+                print(f"[OK] [{indice}/{total_perfis}] {perfil['nome']} - {perfil['cargo']}")
             else:
                 erros += 1
-                print(f"❌ [{indice}/{total_perfis}] Erro ao inserir: {perfil.get('nome', 'Desconhecido')}")
+                print(f"[ERRO] [{indice}/{total_perfis}] Erro ao inserir: {perfil.get('nome', 'Desconhecido')}")
         
         # Commit de todas as inserções
         db.commit()
         
         # Estatísticas finais
         print("\n" + "="*60)
-        print("📊 ESTATÍSTICAS FINAIS")
+        print("ESTATISTICAS FINAIS")
         print("="*60)
-        print(f"✅ Perfis inseridos com sucesso: {sucesso}")
-        print(f"❌ Erros: {erros}")
-        print(f"📈 Taxa de sucesso: {(sucesso/total_perfis)*100:.1f}%")
+        print(f"[OK] Perfis inseridos com sucesso: {sucesso}")
+        print(f"[ERRO] Erros: {erros}")
+        print(f"Taxa de sucesso: {(sucesso/total_perfis)*100:.1f}%")
         
         # DECISÃO: mostrar estatísticas por área
         if sucesso > 0:
             print("\n" + "-"*60)
-            print("📊 DISTRIBUIÇÃO POR ÁREA")
+            print("DISTRIBUICAO POR AREA")
             print("-"*60)
             
             # Contar por área
@@ -229,14 +229,14 @@ def popular_banco_dados():
             
             # REPETIÇÃO: mostrar estatísticas
             for area, quantidade in sorted(contagem_areas.items()):
-                print(f"  • {area}: {quantidade} profissionais")
+                print(f"  - {area}: {quantidade} profissionais")
         
         print("\n" + "="*60)
-        print("✅ POPULAÇÃO CONCLUÍDA COM SUCESSO!")
+        print("POPULACAO CONCLUIDA COM SUCESSO!")
         print("="*60 + "\n")
         
     except Exception as e:
-        print(f"\n❌ Erro fatal durante população do banco: {e}")
+        print(f"\n[ERRO] Erro fatal durante populacao do banco: {e}")
         db.rollback()
     finally:
         db.close()
@@ -252,7 +252,7 @@ def verificar_banco_populado():
     - REPETIÇÃO
     """
     print("\n" + "="*60)
-    print("🔍 VERIFICANDO BANCO DE DADOS")
+    print("VERIFICANDO BANCO DE DADOS")
     print("="*60 + "\n")
     
     db = SessionLocal()
@@ -261,25 +261,25 @@ def verificar_banco_populado():
         # Contar total de profissionais
         total = db.query(Profissional).count()
         
-        print(f"📊 Total de profissionais no banco: {total}")
+        print(f"Total de profissionais no banco: {total}")
         
         # DECISÃO: verificar se tem dados
         if total == 0:
-            print("⚠️  Banco está vazio!")
+            print("[AVISO] Banco esta vazio!")
             return False
         
         # Mostrar alguns exemplos
-        print("\n📋 Primeiros 5 profissionais:")
+        print("\nPrimeiros 5 profissionais:")
         print("-"*60)
         
         primeiros = db.query(Profissional).limit(5).all()
         
         # REPETIÇÃO: mostrar profissionais
         for prof in primeiros:
-            print(f"  • ID {prof.id}: {prof.nome} - {prof.cargo} ({prof.area})")
+            print(f"  - ID {prof.id}: {prof.nome} - {prof.cargo} ({prof.area})")
         
         # Estatísticas por área
-        print("\n📊 Profissionais por área:")
+        print("\nProfissionais por area:")
         print("-"*60)
         
         todos = db.query(Profissional).all()
@@ -294,13 +294,13 @@ def verificar_banco_populado():
         
         # REPETIÇÃO: mostrar contagem
         for area, qtd in sorted(areas.items()):
-            print(f"  • {area}: {qtd} profissionais")
+            print(f"  - {area}: {qtd} profissionais")
         
-        print("\n✅ Verificação concluída!")
+        print("\n[OK] Verificacao concluida!")
         return True
         
     except Exception as e:
-        print(f"❌ Erro durante verificação: {e}")
+        print(f"[ERRO] Erro durante verificacao: {e}")
         return False
     finally:
         db.close()
@@ -315,6 +315,6 @@ if __name__ == "__main__":
     # Verificar se funcionou
     verificar_banco_populado()
     
-    print("\n🎉 Processo finalizado! O banco de dados está pronto para uso.")
-    print("💡 Execute 'python main.py' para iniciar a API.\n")
+    print("\nProcesso finalizado! O banco de dados esta pronto para uso.")
+    print("Execute 'python main.py' para iniciar a API.\n")
 
