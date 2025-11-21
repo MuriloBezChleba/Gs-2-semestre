@@ -344,10 +344,9 @@ Após popular o banco, você terá:
 ## 👥 Integrantes do Grupo
 
 | Nome | RM |
-|------|-----|
-| [NOME_COMPLETO_1] | [RM_1] |
-| [NOME_COMPLETO_2] | [RM_2] |
-| [NOME_COMPLETO_3] | [RM_3] |
+|Murilo Gonzalez Bez Chleba | RM 566199|
+|Guilherme Augusto F. Fernandes | RM 562107|
+|Caio Marques Lins | RM 559805|
 
 ## 🔗 Links
 
