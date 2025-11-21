@@ -7,11 +7,9 @@ function DataSourceToggle({ onToggle }) {
   const [checking, setChecking] = useState(true)
 
   useEffect(() => {
-    // Carregar estado inicial
     const currentState = isUsingAPI()
     setUseAPIState(currentState)
     
-    // Verificar se API está disponível
     checkAPIHealth().then(available => {
       setApiAvailable(available)
       setChecking(false)
@@ -23,7 +21,6 @@ function DataSourceToggle({ onToggle }) {
     setUseAPIState(newState)
     setUseAPI(newState)
     
-    // Notificar componente pai para recarregar dados
     if (onToggle) {
       onToggle(newState)
     }
@@ -57,7 +54,6 @@ function DataSourceToggle({ onToggle }) {
         />
       </button>
 
-      {/* Indicador de status da API */}
       {!checking && (
         <div className="flex items-center gap-1">
           <div className={`w-2 h-2 rounded-full ${apiAvailable ? 'bg-green-500' : 'bg-red-500'}`} />
@@ -73,7 +69,6 @@ function DataSourceToggle({ onToggle }) {
         </span>
       )}
 
-      {/* Tooltip de informação */}
       <div className="group relative">
         <span className="text-gray-500 dark:text-gray-400 cursor-help">ⓘ</span>
         <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 bg-gray-800 text-white text-xs rounded-lg opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none whitespace-nowrap z-50">
@@ -88,4 +83,3 @@ function DataSourceToggle({ onToggle }) {
 }
 
 export default DataSourceToggle
-

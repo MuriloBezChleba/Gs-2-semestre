@@ -3,22 +3,19 @@ import Header from './components/Header'
 import SearchAndFilters from './components/SearchAndFilters'
 import ProfileCard from './components/ProfileCard'
 import ProfileModal from './components/ProfileModal'
+import AddProfessionalModal from './components/AddProfessionalModal'
 import Footer from './components/Footer'
 import DataSourceToggle from './components/DataSourceToggle'
 import profissionaisData from './data/profissionais.json'
 import { isUsingAPI, fetchProfissionais, fetchAreas, fetchCidades, fetchTecnologias } from './services/api'
 
 function App() {
-  // Estado para controlar qual profissional está selecionado para modal
   const [selectedProfile, setSelectedProfile] = useState(null)
-  
-  // Estados para busca e filtros
+  const [showAddModal, setShowAddModal] = useState(false)
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedArea, setSelectedArea] = useState('')
   const [selectedCity, setSelectedCity] = useState('')
   const [selectedTech, setSelectedTech] = useState('')
-
-  // Estados para dados da API
   const [profissionais, setProfissionais] = useState(profissionaisData)
   const [areas, setAreas] = useState([])
   const [cities, setCities] = useState([])
@@ -27,14 +24,12 @@ function App() {
   const [error, setError] = useState(null)
   const [useAPI, setUseAPI] = useState(false)
 
-  // Aplicar dark mode baseado no localStorage ao carregar a página
   useEffect(() => {
     const isDark = localStorage.getItem('darkMode') === 'true'
     if (isDark) {
       document.documentElement.classList.add('dark')
     }
 
-    // Verificar se deve usar API
     const shouldUseAPI = isUsingAPI()
     setUseAPI(shouldUseAPI)
     
@@ -45,11 +40,9 @@ function App() {
     }
   }, [])
 
-  // Carregar dados do JSON local
   const loadDataFromJSON = () => {
     setProfissionais(profissionaisData)
     
-    // Extrair dados únicos do JSON
     const uniqueAreas = [...new Set(profissionaisData.map(p => p.area))].sort()
     const uniqueCities = [...new Set(profissionaisData.map(p => p.localizacao))].sort()
     const uniqueTechs = [...new Set(profissionaisData.flatMap(p => p.habilidadesTecnicas))].sort()
@@ -60,16 +53,13 @@ function App() {
     setError(null)
   }
 
-  // Carregar dados da API
   const loadDataFromAPI = async () => {
     setLoading(true)
     setError(null)
     
     try {
-      // Buscar profissionais
       const profissionaisAPI = await fetchProfissionais()
       
-      // Converter campos do backend para formato do frontend
       const profissionaisFormatados = profissionaisAPI.map(prof => ({
         ...prof,
         habilidadesTecnicas: prof.habilidades_tecnicas || prof.habilidadesTecnicas,
@@ -79,7 +69,6 @@ function App() {
       
       setProfissionais(profissionaisFormatados)
       
-      // Buscar listas auxiliares
       const [areasAPI, cidadesAPI, techsAPI] = await Promise.all([
         fetchAreas(),
         fetchCidades(),
@@ -92,18 +81,14 @@ function App() {
     } catch (err) {
       console.error('Erro ao carregar dados da API:', err)
       setError('Erro ao conectar com a API. Usando dados locais como fallback.')
-      // Fallback para JSON local em caso de erro
       loadDataFromJSON()
     } finally {
       setLoading(false)
     }
   }
 
-  // Handler para mudança de fonte de dados
   const handleDataSourceToggle = (shouldUseAPI) => {
     setUseAPI(shouldUseAPI)
-    
-    // Limpar filtros ao trocar fonte de dados
     setSearchTerm('')
     setSelectedArea('')
     setSelectedCity('')
@@ -116,15 +101,16 @@ function App() {
     }
   }
 
-  // Filtrar profissionais com base na busca e filtros (funciona para ambas as fontes)
+  const handleAddSuccess = (novoProfissional) => {
+    if (useAPI) {
+      loadDataFromAPI()
+    }
+  }
+
   const filteredProfessionals = useMemo(() => {
-    // Se estiver usando API e houver filtros, fazer nova requisição seria mais eficiente
-    // Mas para manter compatibilidade, filtramos localmente
     return profissionais.filter(prof => {
-      // Normalizar nomes de campos (suporta ambos os formatos)
       const habilidades = prof.habilidadesTecnicas || prof.habilidades_tecnicas || []
       
-      // Filtro de busca textual (nome, cargo, resumo, habilidades)
       const searchLower = searchTerm.toLowerCase()
       const matchesSearch = searchTerm === '' || 
         prof.nome.toLowerCase().includes(searchLower) ||
@@ -132,13 +118,8 @@ function App() {
         prof.resumo.toLowerCase().includes(searchLower) ||
         habilidades.some(skill => skill.toLowerCase().includes(searchLower))
 
-      // Filtro por área
       const matchesArea = selectedArea === '' || prof.area === selectedArea
-
-      // Filtro por cidade
       const matchesCity = selectedCity === '' || prof.localizacao === selectedCity
-
-      // Filtro por tecnologia
       const matchesTech = selectedTech === '' || 
         habilidades.some(skill => 
           skill.toLowerCase().includes(selectedTech.toLowerCase())
@@ -153,19 +134,16 @@ function App() {
       <Header />
       
       <main className="container mx-auto px-4 py-8">
-        {/* Toggle para alternar entre API e JSON local */}
         <div className="mb-6">
           <DataSourceToggle onToggle={handleDataSourceToggle} />
         </div>
 
-        {/* Mensagem de erro se houver */}
         {error && (
           <div className="mb-6 p-4 bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200 rounded-lg">
             <p className="font-medium">⚠️ {error}</p>
           </div>
         )}
 
-        {/* Indicador de carregamento */}
         {loading && (
           <div className="mb-6 text-center">
             <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-primary-600"></div>
@@ -173,7 +151,6 @@ function App() {
           </div>
         )}
 
-        {/* Busca e Filtros */}
         {!loading && (
           <SearchAndFilters
             searchTerm={searchTerm}
@@ -190,7 +167,6 @@ function App() {
           />
         )}
 
-        {/* Contador de resultados */}
         {!loading && (
           <div className="mb-6 text-gray-700 dark:text-gray-300">
             <p className="text-sm">
@@ -202,7 +178,6 @@ function App() {
           </div>
         )}
 
-        {/* Grid de Cards */}
         {!loading && (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 mb-12">
             {filteredProfessionals.map(profile => (
@@ -215,7 +190,6 @@ function App() {
           </div>
         )}
 
-        {/* Mensagem quando não há resultados */}
         {!loading && filteredProfessionals.length === 0 && (
           <div className="text-center py-12">
             <p className="text-gray-500 dark:text-gray-400 text-lg">
@@ -238,16 +212,29 @@ function App() {
 
       <Footer />
 
-      {/* Modal de Detalhes */}
+      <button
+        onClick={() => setShowAddModal(true)}
+        className="fixed bottom-8 right-8 w-16 h-16 bg-primary-600 hover:bg-primary-700 text-white rounded-full shadow-lg hover:shadow-xl transition-all duration-300 flex items-center justify-center text-3xl font-bold z-40 group"
+        aria-label="Adicionar profissional"
+        title="Cadastrar novo profissional"
+      >
+        <span className="group-hover:rotate-90 transition-transform duration-300">+</span>
+      </button>
+
       {selectedProfile && (
         <ProfileModal
           profile={selectedProfile}
           onClose={() => setSelectedProfile(null)}
         />
       )}
+
+      <AddProfessionalModal
+        isOpen={showAddModal}
+        onClose={() => setShowAddModal(false)}
+        onSuccess={handleAddSuccess}
+      />
     </div>
   )
 }
 
 export default App
-

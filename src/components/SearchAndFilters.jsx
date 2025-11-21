@@ -23,7 +23,6 @@ function SearchAndFilters({
   return (
     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 mb-8 transition-colors duration-200">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-        {/* Campo de Busca */}
         <div className="lg:col-span-2">
           <label htmlFor="search" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
             Buscar Profissionais
@@ -38,7 +37,6 @@ function SearchAndFilters({
           />
         </div>
 
-        {/* Filtro por Área */}
         <div>
           <label htmlFor="area" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
             Área
@@ -56,7 +54,6 @@ function SearchAndFilters({
           </select>
         </div>
 
-        {/* Filtro por Cidade */}
         <div>
           <label htmlFor="city" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
             Localização
@@ -74,7 +71,6 @@ function SearchAndFilters({
           </select>
         </div>
 
-        {/* Filtro por Tecnologia */}
         <div className="lg:col-span-3">
           <label htmlFor="tech" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
             Tecnologia
@@ -92,7 +88,6 @@ function SearchAndFilters({
           </select>
         </div>
 
-        {/* Botão Limpar Filtros */}
         {hasActiveFilters && (
           <div className="flex items-end">
             <button
@@ -109,4 +104,3 @@ function SearchAndFilters({
 }
 
 export default SearchAndFilters
-

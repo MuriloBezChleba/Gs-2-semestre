@@ -3,13 +3,11 @@ import { useState, useEffect } from 'react'
 function DarkModeToggle() {
   const [isDark, setIsDark] = useState(false)
 
-  // Carregar preferência do localStorage ao montar
   useEffect(() => {
     const savedMode = localStorage.getItem('darkMode') === 'true'
     setIsDark(savedMode)
   }, [])
 
-  // Alternar dark mode
   const toggleDarkMode = () => {
     const newMode = !isDark
     setIsDark(newMode)
@@ -37,7 +35,6 @@ function DarkModeToggle() {
         {isDark ? 'Ativar modo claro' : 'Ativar modo escuro'}
       </span>
       
-      {/* Ícones de sol e lua */}
       <span className={`absolute left-2 text-xs ${isDark ? 'text-gray-400' : 'text-yellow-500'}`}>
         ☀️
       </span>
@@ -49,4 +46,3 @@ function DarkModeToggle() {
 }
 
 export default DarkModeToggle
-

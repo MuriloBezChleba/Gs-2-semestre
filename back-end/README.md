@@ -393,3 +393,6 @@ Projeto desenvolvido para fins acadêmicos - FIAP 2025.
 
 **Desenvolvido com ❤️ para Global Solution - Computational Thinking with Python**
 
+
+
+

@@ -3,7 +3,6 @@ function Footer() {
     <footer className="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 mt-12 transition-colors duration-200">
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-6">
-          {/* Sobre */}
           <div>
             <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-3">
               FuturoConecta
@@ -13,7 +12,6 @@ function Footer() {
             </p>
           </div>
 
-          {/* Links */}
           <div>
             <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-3">
               Links Rápidos
@@ -42,7 +40,6 @@ function Footer() {
             </ul>
           </div>
 
-          {/* Informações */}
           <div>
             <h3 className="text-lg font-bold text-gray-900 dark:text-white mb-3">
               Informações
@@ -56,7 +53,6 @@ function Footer() {
           </div>
         </div>
 
-        {/* Copyright */}
         <div className="border-t border-gray-200 dark:border-gray-700 pt-6">
           <p className="text-center text-sm text-gray-600 dark:text-gray-400">
             © {new Date().getFullYear()} FuturoConecta. Projeto Acadêmico - Todos os direitos reservados.
@@ -68,4 +64,3 @@ function Footer() {
 }
 
 export default Footer
-

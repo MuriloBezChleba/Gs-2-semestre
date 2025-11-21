@@ -1,15 +1,8 @@
-"""
-Models do banco de dados usando SQLAlchemy ORM
-"""
-
 from sqlalchemy import Column, Integer, String, Text, JSON
 from database import Base
 
 
 class Profissional(Base):
-    """
-    Model que representa um profissional no banco de dados
-    """
     __tablename__ = "profissionais"
 
     id = Column(Integer, primary_key=True, index=True, autoincrement=True)
@@ -19,8 +12,6 @@ class Profissional(Base):
     resumo = Column(Text, nullable=False)
     localizacao = Column(String(100), nullable=False, index=True)
     area = Column(String(100), nullable=False, index=True)
-    
-    # Campos JSON para armazenar arrays
     habilidades_tecnicas = Column(JSON, nullable=False)
     soft_skills = Column(JSON, nullable=False)
     experiencias = Column(JSON, nullable=False)
@@ -32,4 +23,3 @@ class Profissional(Base):
 
     def __repr__(self):
         return f"<Profissional(id={self.id}, nome='{self.nome}', cargo='{self.cargo}')>"
-

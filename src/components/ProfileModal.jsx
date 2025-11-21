@@ -7,7 +7,6 @@ function ProfileModal({ profile, onClose }) {
   const [isRecommended, setIsRecommended] = useState(false)
   const [messageSuccess, setMessageSuccess] = useState(false)
 
-  // Formatar data de experiência (YYYY-MM -> MMM/AAAA)
   const formatDate = (dateStr) => {
     if (dateStr === 'Atual') return 'Atual'
     const [year, month] = dateStr.split('-')
@@ -15,13 +14,11 @@ function ProfileModal({ profile, onClose }) {
     return `${months[parseInt(month) - 1]}/${year}`
   }
 
-  // Handler para recomendar
   const handleRecommend = () => {
     setIsRecommended(true)
-    setTimeout(() => setIsRecommended(false), 3000) // Reset após 3 segundos
+    setTimeout(() => setIsRecommended(false), 3000)
   }
 
-  // Handler para enviar mensagem
   const handleSendMessage = (e) => {
     e.preventDefault()
     if (message.trim()) {
@@ -36,16 +33,13 @@ function ProfileModal({ profile, onClose }) {
 
   return (
     <div className="fixed inset-0 z-50 overflow-y-auto">
-      {/* Overlay */}
       <div
         className="fixed inset-0 bg-black bg-opacity-50 transition-opacity"
         onClick={onClose}
       />
 
-      {/* Modal */}
       <div className="flex min-h-full items-center justify-center p-4">
         <div className="relative bg-white dark:bg-gray-800 rounded-lg shadow-2xl max-w-4xl w-full max-h-[90vh] overflow-y-auto transition-colors">
-          {/* Botão Fechar */}
           <button
             onClick={onClose}
             className="absolute top-4 right-4 text-gray-400 hover:text-gray-600 dark:hover:text-gray-200 text-2xl font-bold z-10"
@@ -54,10 +48,8 @@ function ProfileModal({ profile, onClose }) {
             ×
           </button>
 
-          {/* Header com foto e informações básicas */}
           <div className="bg-gradient-to-r from-primary-500 to-primary-600 dark:from-primary-700 dark:to-primary-800 p-8 text-white">
             <div className="flex flex-col md:flex-row items-center gap-6">
-              {/* Foto */}
               <div className="w-32 h-32 rounded-full bg-white dark:bg-gray-700 flex items-center justify-center overflow-hidden shadow-lg">
                 {profile.foto ? (
                   <img src={profile.foto} alt={profile.nome} className="w-full h-full object-cover" />
@@ -68,7 +60,6 @@ function ProfileModal({ profile, onClose }) {
                 )}
               </div>
 
-              {/* Informações básicas */}
               <div className="flex-1 text-center md:text-left">
                 <h2 className="text-3xl font-bold mb-2">{profile.nome}</h2>
                 <p className="text-xl mb-2">{profile.cargo}</p>
@@ -82,9 +73,7 @@ function ProfileModal({ profile, onClose }) {
             </div>
           </div>
 
-          {/* Conteúdo */}
           <div className="p-8">
-            {/* Alertas de sucesso */}
             {isRecommended && (
               <div className="mb-4 p-4 bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 rounded-lg">
                 ✓ Profissional recomendado com sucesso!
@@ -97,7 +86,6 @@ function ProfileModal({ profile, onClose }) {
               </div>
             )}
 
-            {/* Botões de ação */}
             <div className="flex flex-wrap gap-4 mb-6">
               <button
                 onClick={handleRecommend}
@@ -119,7 +107,6 @@ function ProfileModal({ profile, onClose }) {
               </button>
             </div>
 
-            {/* Formulário de mensagem */}
             {showMessageForm && (
               <div className="mb-6 p-4 bg-gray-50 dark:bg-gray-700 rounded-lg">
                 <form onSubmit={handleSendMessage}>
@@ -156,13 +143,11 @@ function ProfileModal({ profile, onClose }) {
               </div>
             )}
 
-            {/* Resumo / Bio */}
             <section className="mb-6">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">Sobre</h3>
               <p className="text-gray-700 dark:text-gray-300 leading-relaxed">{profile.resumo}</p>
             </section>
 
-            {/* Experiências Profissionais */}
             <section className="mb-6">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
                 💼 Experiências Profissionais
@@ -181,7 +166,6 @@ function ProfileModal({ profile, onClose }) {
               </div>
             </section>
 
-            {/* Habilidades Técnicas */}
             <section className="mb-6">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
                 🛠️ Habilidades Técnicas (Hard Skills)
@@ -189,7 +173,6 @@ function ProfileModal({ profile, onClose }) {
               <TagList tags={profile.habilidadesTecnicas} variant="primary" />
             </section>
 
-            {/* Soft Skills */}
             <section className="mb-6">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
                 🌟 Soft Skills
@@ -197,7 +180,6 @@ function ProfileModal({ profile, onClose }) {
               <TagList tags={profile.softSkills} variant="secondary" />
             </section>
 
-            {/* Formação */}
             <section className="mb-6">
               <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
                 🎓 Formação Acadêmica
@@ -213,7 +195,6 @@ function ProfileModal({ profile, onClose }) {
               </div>
             </section>
 
-            {/* Projetos */}
             {profile.projetos && profile.projetos.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
@@ -240,7 +221,6 @@ function ProfileModal({ profile, onClose }) {
               </section>
             )}
 
-            {/* Certificações */}
             {profile.certificacoes && profile.certificacoes.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
@@ -250,7 +230,6 @@ function ProfileModal({ profile, onClose }) {
               </section>
             )}
 
-            {/* Idiomas */}
             {profile.idiomas && profile.idiomas.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
@@ -267,7 +246,6 @@ function ProfileModal({ profile, onClose }) {
               </section>
             )}
 
-            {/* Áreas de Interesse */}
             {profile.areaInteresses && profile.areaInteresses.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xl font-bold text-gray-900 dark:text-white mb-3">
@@ -284,4 +262,3 @@ function ProfileModal({ profile, onClose }) {
 }
 
 export default ProfileModal
-

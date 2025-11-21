@@ -1,9 +1,7 @@
 function TagList({ tags, variant = 'primary', limit = null }) {
-  // Se limit for definido, mostrar apenas os primeiros N itens
   const displayTags = limit ? tags.slice(0, limit) : tags
   const hasMore = limit && tags.length > limit
 
-  // Definir cores baseadas na variante
   const variantClasses = {
     primary: 'bg-primary-100 text-primary-800 dark:bg-primary-900 dark:text-primary-200',
     secondary: 'bg-purple-100 text-purple-800 dark:bg-purple-900 dark:text-purple-200',
@@ -34,4 +32,3 @@ function TagList({ tags, variant = 'primary', limit = null }) {
 }
 
 export default TagList
-
